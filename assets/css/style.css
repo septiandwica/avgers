@@ -289,6 +289,7 @@ header.header .navbar .logo .logo_text {
   letter-spacing: 2px;
 }
 
+
 header.header .navbar .logo .logo_text:before {
   position: absolute;
   content: "/";
@@ -866,6 +867,7 @@ header.header.headerFixed {
   height: 100vh;
 }
 
+
 .hero_warp .banner_content .banner_title {
   color: #f6f7fb;
   font-size: 180px;
@@ -1127,6 +1129,7 @@ header.header.headerFixed {
   .portfolio_3_column .portfolio_single_item {
     padding-left: 10%;
   }
+
 }
 
 .portfolio_3_column .portfolio_item {
@@ -2775,6 +2778,7 @@ header.header.headerFixed {
   font-family: "futurabook";
   letter-spacing: 2px;
 }
+
 
 .footer .footer_content .footer_logo a .logo_text:before {
   position: absolute;
